@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ansh Jain</h1>
-<h3 align="center">I am Ansh Jain, Full Stack Developer pursuing my Bachelors in Computer Science Engineering from Punjab Engineering College</h3>
+<p >Hi 👋, I'm Ansh Jain, Full Stack Developer pursuing my Bachelors in Computer Science Engineering from <a href = ""https://pec.ac.in/>Punjab Engineering College </a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshjain123&label=Profile%20views&color=0e75b6&style=flat" alt="anshjain123" /> </p>
 
